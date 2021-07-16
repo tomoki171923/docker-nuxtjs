@@ -11,11 +11,6 @@ docker-compose up
 docker-compose exec node npm install
 ~~~
 
-
-
-
-
-
 ## Reference 
 
 ### create sample app (for the first time only)
